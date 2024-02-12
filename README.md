@@ -1,0 +1,14 @@
+# chiron-user 9 PKQ1.190118.001 V12.0.1.0.PDEMIXM release-keys
+- manufacturer: xiaomi
+- platform: 
+- codename: chiron
+- flavor: chiron-user
+- release: 9
+- id: PKQ1.190118.001
+- incremental: V12.0.1.0.PDEMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/chiron/chiron:9/PKQ1.190118.001/V12.0.1.0.PDEMIXM:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: chiron-user-9-PKQ1.190118.001-V12.0.1.0.PDEMIXM-release-keys
+- repo: xiaomi_chiron_dump
